@@ -1,0 +1,40 @@
+.quadro {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+h4 {
+    text-align: center;
+    line-height: 100px;
+}
+.quadra {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}
+
+h4 {
+    text-align: center;
+    line-height: 100px;
+}
+.quadru {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    
+}
+h4 {
+    text-align: center;
+    line-height: 100px;
+}
+
+.first {
+    color: white;
+}
+.second {
+    color: white;
+}
+.third {
+    color: white;
+}
