@@ -1,0 +1,14 @@
+*{
+    background-color: #5937D7;
+}
+h1 {
+    text-align: center;
+}
+.first {
+    border: 1px solid white;
+    width: 641px;
+    height: 801px;
+    margin: 0 auto;
+    margin: 0 auto;
+    background-image: url(./assets/IMG1.png);
+}
