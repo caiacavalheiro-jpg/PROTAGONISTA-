@@ -1,0 +1,3 @@
+(typeof null)
+(typeof undefined)
+([])

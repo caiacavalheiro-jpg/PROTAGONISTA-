@@ -4,4 +4,4 @@ const anoNascimento = ("2010")
 let cidade = ("São José")
 const profissao = ("cyber security")
 
-console.log ("Meu nome é " + {$nome} + ", tenho " + {$idade} + " anos" + ", nasci em " + {$anoNascimento} + ", moro em " + {$cidade} + ", e sou" + {$profissao}) 
+console.log (`Meu nome é ${nome}, tenho ${idade} anos, nasci em ${anoNascimento} moro em ${cidade}, e sou ${profissao}`) 
