@@ -30,7 +30,7 @@ let carros = [
 {marca: 'mercedes', modelo: 'c300'},
 {marca: 'citroen', modelo: 'C4'}]
 
-carros.forEach (function(carros){
-    console.log (`Marca: ${carros.marca} - Modelo: ${carros.modelo}`)
+carros.forEach (function(carra){
+    console.log (`Marca: ${carra.marca} - Modelo: ${carra.modelo}`)
     Objects.key(carros)
 })
