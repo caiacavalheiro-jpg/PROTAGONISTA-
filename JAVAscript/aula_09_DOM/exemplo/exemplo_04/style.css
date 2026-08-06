@@ -1,0 +1,12 @@
+.btnMais {
+    background-color: green;
+}
+.btnMais:hover {
+    background-color: chartreuse;
+}
+.btnMenos {
+    background-color: brown;
+}
+.btnMenos:hover {
+    background-color: red;
+}
